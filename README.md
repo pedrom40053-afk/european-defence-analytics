@@ -63,7 +63,7 @@ Across the European countries included in the analysis:
 
 The dashboard also identifies the countries expected to experience the strongest increases in defence burden and examines whether higher spending is accompanied by greater equipment investment.
 
-![European Defence Outlook 2026](https://raw.githubusercontent.com/pedrom40053-afk/european-defence-analytics/main/dashboard/screenshots/04_2026_Defence_Outlook.jpg)
+![European Defence Outlook 2026](dashboard/screenshots/04_2026_Defence_Outlook.jpg)
 
 ---
 
